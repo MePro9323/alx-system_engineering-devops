@@ -1,2 +1,0 @@
-#!/bin/bash
-cUt -d ":" -f 1,6 /etc/passwd
